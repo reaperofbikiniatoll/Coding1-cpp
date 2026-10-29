@@ -68,7 +68,7 @@ int main() {
     Jackass.Contact();
     Jackass.Depart();
 
-    cout << "\n--- Custom Alien ---\n";
+    cout << "\n Random Alien \n";
 
     // Create an alien using custom values
     Alien customAlien(6, "Yes", 2, "Mars");
