@@ -76,7 +76,7 @@ int main() {
     cout << "This creature has " << customAlien.limbCount << " limbs!\n";
     cout << "Can it fly? " << customAlien.canFly << "\n";
     cout << "Threat level: " << customAlien.threatLevel << "\n";
-    cout << "Home planet: " << customAlien.homePlanet << "\n\n";
+    cout << "Home planet: " << customAlien.homePlanet << "\n";
 
     customAlien.Contact();
     customAlien.Depart();
